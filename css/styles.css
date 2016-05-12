@@ -2,9 +2,9 @@
 YOUR STYLES
 *******************/
 
-article {
+section {
     background: yellow;
-    width: 33%;
+    width: 33% !important;
 }
 
 /********************
